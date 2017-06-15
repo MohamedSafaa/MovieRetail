@@ -1,0 +1,52 @@
+body{
+  background-color: #2F2F2F;
+  font-family: Arial,sans-serif;
+  color: white;
+}
+
+.container, .rent_list{
+  width: 1125px;
+  margin: 0 auto;
+}
+
+.float_right{
+  float: right;
+  margin-right: 15px;
+}
+
+.float_left{
+    float: left;
+}
+
+.clear{
+  clear: both;
+}
+
+.container .rent_button{
+  margin: 40px ;
+}
+
+.container .rent_button, .container .rent_button button{
+  width: 200px;
+  height: 50px;
+}
+
+.container table td{
+  padding-right: 40px;
+}
+
+a{
+  text-decoration: none;
+  padding: 10px 60px;
+  background-color: #515761;
+  color: white;
+  border-radius: 6px;
+}
+
+a:hover{
+  background-color: #5B626E;
+}
+
+.headlineColor{
+  color: #CACBC4;
+}
